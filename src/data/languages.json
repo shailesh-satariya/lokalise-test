@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Russian",
+    "countryCode": "RU",
+    "id": "xeP5cRG_a"
+  },
+  {
+    "name": "Latvian",
+    "countryCode": "LV",
+    "id": "0SoU54EEcE"
+  },
+  {
+    "name": "English",
+    "countryCode": "GB",
+    "id": "BbUpHAqYAD"
+  },
+  {
+    "name": "French",
+    "countryCode": "FR",
+    "id": "oP9b3evTAE"
+  },
+  {
+    "name": "Estonian",
+    "countryCode": "EE",
+    "id": "jNSlY6G-GJ"
+  },
+  {
+    "name": "Chinese",
+    "countryCode": "CN",
+    "id": "PqHTXm7BNg"
+  }
+]

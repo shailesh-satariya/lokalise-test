@@ -1,0 +1,19 @@
+@import "../theme";
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+.react-select__indicator-separator {
+  display: none;
+}
+
+.react-select__option--is-focused,
+.react-select__option:hover {
+  background-color: theme-color("primary") !important;
+  color: theme-color("light") !important;
+}
+
+.react-select__multi-value__remove:hover {
+  background-color: transparent !important;
+  color: rgb(51, 51, 51) !important;
+  fill: rgb(51, 51, 51);
+}

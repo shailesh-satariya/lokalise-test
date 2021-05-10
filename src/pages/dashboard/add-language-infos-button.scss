@@ -1,0 +1,22 @@
+@import "./language-info-item.scss";
+
+.add-languages-modal {
+  .modal-dialog {
+    @include media-breakpoint-up(sm) {
+      max-width: 600px;
+    }
+  }
+
+  .modal-content {
+    padding: 2em;
+  }
+
+  .modal-header {
+    font-size: 1.75em;
+    font-weight: bold;
+  }
+
+  .modal-body {
+    font-size: 1.25em;
+  }
+}
